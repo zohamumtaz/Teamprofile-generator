@@ -5,7 +5,6 @@
 https://zohamumtaz.github.io/Teamprofile-generator/. 
 ## github repo link 
 https://github.com/zohamumtaz/Teamprofile-generator
-
 ## Description
 This software is made for generating team profile using command line application. 
 User have to input  information about their team manager and team members using command line.
