@@ -2,7 +2,7 @@
 
 
 ## Deployed link Application link 
-file:///Users/zohamumtaz/Projects/Teamprofile-generator/ten.html## 
+https://zohamumtaz.github.io/Teamprofile-generator/. 
 
 
 
