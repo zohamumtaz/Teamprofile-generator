@@ -1,10 +1,8 @@
 # Team-Profile-Generator
 
 
-## Deployed link
-
-
-## Application link 
+## Deployed link Application link 
+file:///Users/zohamumtaz/Projects/Teamprofile-generator/ten.html## 
 
 
 
