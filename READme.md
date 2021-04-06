@@ -15,7 +15,8 @@ We have tested to make sure all unit test are passed to maintain are code.
 ![Screenshot1](./images/screenshot1.png)
 
 ## Screen Recordings
-See Assets folder 
+https://youtu.be/gruiV0ei0Pw
+
 ## License
 
 Licensed under the MIT license
